@@ -1,8 +1,12 @@
 ---
-title: Accueil
+title: "Bienvenue au HandiFest !"
 order: 0
+in_menu: true
 ---
+# Le HandiFest
 
-# L'Échappée Belle
+Pour fêter notre année d'existence, nous organisons un **festival** visant à valoriser, visibiliser et détabouiser le sujet du handicap et croiser les regards sur les sujets de discriminations.
 
-L'Échappée Belle est **une association** qui a pour objet de soutenir et promouvoir des activités et des personnes qui travaillent autour de **valeurs de consentement, de bien commun et de prendre soin des personnes et de l’environnement**.
+Pour mettre en lumière toutes les facettes du handicap et célébrer la diversité, nous considérons le handicap comme vaste, pluriel, riche et culturel.
+
+Pour rassembler, fédérer, festoyer, ce festival est une invitation à écouter, à apprendre, à célébrer – ensemble. 
