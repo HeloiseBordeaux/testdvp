@@ -10,3 +10,5 @@ Pour fêter notre année d'existence, nous organisons un **festival** visant à�
 Pour mettre en lumière toutes les facettes du handicap et célébrer la diversité, nous considérons le handicap comme vaste, pluriel, riche et culturel.
 
 Pour rassembler, fédérer, festoyer, ce festival est une invitation à écouter, à apprendre, à célébrer – ensemble. 
+
+![Texte décrivant l'image]({% link images/logo_dvp_0.png %}) 
