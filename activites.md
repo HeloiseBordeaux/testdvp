@@ -1,17 +1,8 @@
 ---
-title: Activités
+title: "Activités"
 order: 1
+in_menu: true
 ---
+**Dear Valid People** est une association issue de la loi 1901 ayant pour objet la déconstruction du handicap, du validisme. 
 
-L’association cherche à œuvrer en collaboration avec des organismes publics, des organisations privées et des individus.
-
-## Nos activités
-
-A titre indicatif, les activités commerciales possibles sont (liste non-exhaustive) :
-
-- Accompagnement à la **création de structures** juridiques
-- Conception, développement et accompagnement de **produits innovants**
-- **Formation** d’enfants et d’adultes, par exemple dans les domaines de la communication non-violente, méthodologie lean et approche agile, les relations aux animaux, l’alimentation, la gestion de budget familial ou d’entreprise…
-- Projets à **impact environnemental positif**
-- Projets à **impact social positif**
-- Vente d’objets ou de denrées alimentaires, avec **impact humain ou environnemental positif**
+Créée par deux personnes handicapées, avec un bureau en non mixité (uniquement constitué de personnes handicapées), elle redonne une place au handicap et aux personnes concernées. 
