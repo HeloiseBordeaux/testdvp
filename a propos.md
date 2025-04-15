@@ -12,3 +12,6 @@ Le socle de l'association est **l'émission radiophonique** du même nom, et dé
 ![DVP Saison 5 Episode 1 : Le handicap et la scolarité, vraiment obligatoire pour tous ?]({% link images/croppedimage-1ef86598c87a482f944a9fec4ca8fdc7.webp %})
 
 ![Conférences à la Gazette Café, Montpellier]({% link images/Capture d’écran 2025-04-15 210330.png %}) 
+
+### le HandiFest : quézako ?
+Ce nom, contraction de « handicapé·e » et « festival », marque notre volonté de nous réapproprier un mot parfois perçu comme négatif, à l’image de la communauté LGBTQIA+ avec le terme « queer ». 
