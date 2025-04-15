@@ -19,7 +19,12 @@ in_menu: true
 - des tatouages à prix réduits : <span lang="en">flash day</span>
 - une exposition d’artistes handi·e·s
 
+### les attendus
+- 250 spectateur·ice·s minimum
+- Transversalité entre les sujets
+- Visibilité, reconnaissance, notoriété
 
 
-Inscrivez-vous vite (lien non-fonctionnel pour l'instant) !
+**Inscrivez-vous vite (lien non-fonctionnel pour l'instant) !**
+
 <a href="#" class="bouton">S'inscrire au HandiFest</a> 
