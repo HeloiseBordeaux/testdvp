@@ -15,7 +15,7 @@ Pour **rassembler, fédérer, festoyer**, ce festival est une invitation à éco
 
 ![Dear Valid People]({% link images/logo_dvp_0.png %}) 
 
-# Informations pratiques sur l'évènement
+## Informations pratiques sur l'évènement
 
 Le handicap ne doit plus être un sujet tabou réservé à quelques expert·e·s. 
 Il nous concerne toustes, à un moment ou un autre de nos vies.
