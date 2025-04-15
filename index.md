@@ -11,4 +11,4 @@ Pour mettre en lumière toutes les facettes du handicap et célébrer la diversi
 
 Pour rassembler, fédérer, festoyer, ce festival est une invitation à écouter, à apprendre, à célébrer – ensemble. 
 
-![Texte décrivant l'image]({% link images/logo_dvp_0.png %}) 
+![Dear Valid People]({% link images/logo_dvp_0.png %}) 
