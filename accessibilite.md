@@ -4,7 +4,7 @@ order: 5
 in_menu: true
 ---
 ## Accessibilité du site
-Ce site a été conçu pour être accessible en suivant le RAWeb, réfentiel d'accessibilité web en Europe.
+Ce site a été conçu pour être accessible en suivant le RAWeb, Référentiel d’évaluation de l’Accessibilité Web en Europe.
 Pour toute suggestion ou si vous rencontrez toutefois des problèmes d'accessibilité, n'hésitez pas à [nous contacter](https://heloisebordeaux.github.io/testdvp/contact.html).
 
 ## Accessibilité du festival
