@@ -5,7 +5,7 @@ in_menu: true
 ---
 ![HandiFest, festival inclusif Montpellierain par Dear Valid People]({% link images/HandiFestIntro.PNG %})
 
-# Le HandiFest
+# Bienvenue au HandiFest !
 
 ## Pourquoi un festival ?
 
