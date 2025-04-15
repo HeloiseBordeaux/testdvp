@@ -5,7 +5,9 @@ in_menu: true
 ---
 ![HandiFest, festival inclusif Montpellierain par Dear Valid People]({% link images/HandiFestIntro.PNG %})
 
-# Le HandiFest : Pourquoi un festival ?
+# Le HandiFest
+
+## Pourquoi un festival ?
 
 Pour fêter notre année d'existence, nous organisons un **festival** visant à **valoriser, visibiliser et détabouiser le sujet du handicap et croiser les regards** sur les sujets de discriminations.
 
