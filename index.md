@@ -7,13 +7,15 @@ in_menu: true
 
 # Bienvenue au HandiFest !
 
-## Pourquoi un festival ?
-
-Pour fêter notre année d'existence, nous organisons un **festival** visant à **valoriser, visibiliser et détabouiser le sujet du handicap et croiser les regards** sur les sujets de discriminations.
+Pour fêter notre année d'existence, nous organisons un **festival** visant à **valoriser, visibiliser et briser les tabous autour du handicap et croiser les regards** sur les sujets de discriminations.
 
 Pour mettre en lumière **toutes les facettes du handicap** et célébrer la diversité, nous considérons le **handicap comme vaste, pluriel, riche et culturel**.
 
 Pour **rassembler, fédérer, festoyer**, ce festival est une invitation à écouter, à apprendre, à célébrer – ensemble. 
+
+### Pourquoi le nom "HandiFest" ?
+
+Ce nom, contraction de « handicapé·e » et « festival », marque notre volonté de nous réapproprier un mot parfois perçu comme négatif, à l’image de la communauté LGBTQIA+ avec le terme « queer ». 
 
 ![Dear Valid People]({% link images/logo_dvp_0.png %}) 
 
