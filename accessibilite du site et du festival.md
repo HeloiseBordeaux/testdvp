@@ -1,5 +1,5 @@
 ---
-title: "Accessibilité"
+title: "Accessibilité du site et du festival"
 order: 5
 in_menu: true
 ---
