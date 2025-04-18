@@ -1,5 +1,5 @@
 ---
-title: "Déroulé"
+title: "Déroulé du festival"
 order: 1
 in_menu: true
 ---
