@@ -21,10 +21,6 @@ Ce nom, contraction de « handicapé·e » et « festival », marque notre volon
 
 ## Informations pratiques sur l'évènement
 
-Le handicap ne doit plus être un sujet tabou réservé à quelques expert·e·s. 
-Il nous concerne toustes, à un moment ou un autre de nos vies.
-Le choix d’un lieu ouvert, pluriel et inclusif nous semble essentiel. 
-
 Date : **Samedi 7 juin 2025**
 
 Lieu : **Halle Tropisme, Montpellier**
@@ -32,3 +28,7 @@ Lieu : **Halle Tropisme, Montpellier**
 - Un tiers-lieu culturel et festif
 - Une surface de 10 000 m2
 - Plus de 600 évènements/an 
+
+Le handicap ne doit plus être un sujet tabou réservé à quelques expert·e·s. 
+Il nous concerne toustes, à un moment ou un autre de nos vies.
+Le choix d’un lieu ouvert, pluriel et inclusif nous semble essentiel. 
