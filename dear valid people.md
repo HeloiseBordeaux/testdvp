@@ -1,5 +1,5 @@
 ---
-title: "Qui sommes-nous ?"
+title: "Dear Valid People"
 order: 4
 in_menu: true
 ---
