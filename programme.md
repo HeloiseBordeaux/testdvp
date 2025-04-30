@@ -12,10 +12,10 @@ in_menu: true
 
 ### Le programme
 
-#### Un temps participatif : 14-17h30
+#### Un temps participatif : 14h-17h30
 
 - 2 à 3 ateliers autour du **validisme**
-- une table-ronde sur l’**intersectionnalité** 
+- une table-ronde sur les**identités intersectionnelles** 
 
 ####  Un temps festif : 19h30-22h
 
