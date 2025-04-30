@@ -1,6 +1,6 @@
 ---
 title: "Dear Valid People"
-order: 4
+order: 2
 in_menu: true
 ---
 Dear Valid People, une **association** issue de la loi 1901 ayant **pour objet la déconstruction du handicap et du validisme**. Créée par deux personnes handicapées, avec un bureau en non mixité choisie (uniquement constitué de personnes handicapées), elle redonne **une place au handicap et aux personnes concernées**.

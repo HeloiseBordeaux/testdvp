@@ -1,6 +1,6 @@
 ---
 title: "Contact"
-order: 2
+order: 4
 in_menu: true
 ---
 L'association **Dear Valid People** est actuellement composée de 5 membres.

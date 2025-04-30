@@ -1,6 +1,6 @@
 ---
 title: "Accessibilité"
-order: 5
+order: 3
 in_menu: true
 ---
 ## Accessibilité du site
