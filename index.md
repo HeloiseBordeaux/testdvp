@@ -13,6 +13,10 @@ Pour mettre en lumière **toutes les facettes du handicap** et célébrer la div
 
 Pour **rassembler, fédérer, festoyer**, ce festival est une invitation à écouter, à apprendre, à célébrer – ensemble. 
 
+Les inscriptions seront prochainement ouvertes sur HelloAsso :
+<a href="https://www.helloasso.com/associations/dear-valid-people/adhesions/adhesion-annuelle-a-dear-valid-people" class="bouton">S'inscrire au HandiFest</a> 
+
+
 ### Pourquoi le nom "HandiFest" ?
 
 Ce nom, contraction de « handicapé·e » et « festival », marque notre volonté de nous réapproprier un mot parfois perçu comme négatif, à l’image de la communauté LGBTQIA+ avec le terme « queer ». 
