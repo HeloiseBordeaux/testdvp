@@ -3,7 +3,7 @@ title: "Bienvenue au HandiFest !"
 order: 0
 in_menu: true
 ---
-![HandiFest, festival inclusif Montpellierain par Dear Valid People]({% link images/HandiFestIntro.PNG %})
+![HandiFest, festival inclusif Montpellierain par Dear Valid People]({% link images/HandiFestIntro_banner.PNG %})
 
 # Bienvenue au HandiFest !
 
