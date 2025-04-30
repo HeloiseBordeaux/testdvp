@@ -1,3 +1,14 @@
 :root {
     --couleur-primaire : #4C4776;
 }
+
+.bouton {
+  background-color: var(--couleur-primaire);
+  color:white;
+
+.bouton:hover, 
+.bouton:focus,
+.bouton:active {
+  box-shadow: inset 0px -0.2em 0px currentColor;
+  background-color: white;
+  color: var(--couleur-primaire);
