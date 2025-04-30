@@ -1,5 +1,5 @@
 ---
-title: "Déroulé du festival"
+title: "Programme"
 order: 1
 in_menu: true
 ---
@@ -14,6 +14,13 @@ in_menu: true
 - 3x8 min d’artistes locaux
 - 3x12min d’artistes connu·e·s
 - un concert bilingue français/langue des signes française 
+
+#### Nos artistes :
+- Lou Trotignon
+- Tahnee
+- La Pieta
+
+![]({% link images/Performers_HF.png %})
 
 ### Et tout au long de l’évènement...
 - des tatouages à prix réduits : <span lang="en">flash day</span>
