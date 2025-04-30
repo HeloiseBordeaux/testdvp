@@ -3,35 +3,39 @@ title: "Programme"
 order: 1
 in_menu: true
 ---
-### Un temps participatif - 14-17h30
+![]({% link images/Performers_HF.png %})
 
-- 2 à 3 ateliers autour du validisme
-- une table-ronde sur l’intersectionnalité 
-
-### Un temps festif - 19h30-22h
-
-- des spectacles de <span lang="en">stand-up</span> : 
-- 3x8 min d’artistes locaux
-- 3x12min d’artistes connu·e·s
-- un concert bilingue français/langue des signes française 
-
-#### Nos artistes :
+### Nos artistes
 - Lou Trotignon
 - Tahnee
 - La Pieta
 
-![]({% link images/Performers_HF.png %})
+### Le programme
 
-### Et tout au long de l’évènement...
-- des tatouages à prix réduits : <span lang="en">flash day</span>
-- une exposition d’artistes handi·e·s
+#### Un temps participatif : 14-17h30
+
+- 2 à 3 ateliers autour du **validisme**
+- une table-ronde sur l’**intersectionnalité** 
+
+####  Un temps festif : 19h30-22h
+
+- des spectacles de **<span lang="en">stand-up</span>** : 
+  - 3x8 min d’artistes locaux
+  - 3x12min d’artistes connu·e·s
+- un **concert** bilingue français/langue des signes française 
+
+####  Et tout au long de l’évènement...
+- des **tatouages** à prix réduits : <span lang="en">flash day</span>
+- une **exposition** d’artistes handi·e·s
 
 ### les attendus
-- 250 spectateur·ice·s minimum
+- Public : 250 personnes minimum
 - Transversalité entre les sujets
 - Visibilité, reconnaissance, notoriété
 
 
-**Inscrivez-vous vite (lien non-fonctionnel pour l'instant) !**
+**Inscrivez-vous vite !**
 
-<a href="#" class="bouton">S'inscrire au HandiFest</a> 
+Les inscriptions seront prochainement ouvertes sur HelloAsso : 
+
+<a href="https://www.helloasso.com/associations/dear-valid-people/adhesions/adhesion-annuelle-a-dear-valid-people" class="bouton">S'inscrire au HandiFest</a> 
