@@ -13,3 +13,5 @@ N'hésitez pas à nous contacter pour échanger plus concrètement des modalité
 - Consultez [notre Linktree](https://linktr.ee/dearvalidpeople?utm_source=linktree_profile_share&ltsid=4c81f79d-d832-46ea-88d9-20712db35b84)
 
 - Retrouvez-nous sur [HelloAsso](https://www.helloasso.com/associations/dear-valid-people) 
+
+[Mentions légales](https://handifest-montpellier.fr/mentions%20legales.html) 
