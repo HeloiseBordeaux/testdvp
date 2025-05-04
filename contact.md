@@ -14,7 +14,6 @@ N'hésitez pas à nous contacter pour échanger plus concrètement des modalité
 
 - Retrouvez-nous sur [HelloAsso](https://www.helloasso.com/associations/dear-valid-people) 
 
-
-
+<br>
 
 [Mentions légales](https://handifest-montpellier.fr/mentions%20legales.html) 
