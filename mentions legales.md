@@ -1,7 +1,7 @@
 ---
 title: "Mentions légales"
 order: 7
-in_menu: true
+in_menu: false
 ---
 ## Édition et direction de la publication
 
