@@ -3,7 +3,8 @@ title: "Bienvenue au HandiFest !"
 order: 0
 in_menu: true
 ---
-![HandiFest, festival inclusif Montpellierain par Dear Valid People]({% link images/HandiFestIntro_banner.PNG %})
+![HandiFest, festival inclusif Montpellierain par Dear Valid People le 7 juin 2025]({% link images/1000028852.jpg %})
+
 
 # Bienvenue au HandiFest !
 
@@ -14,7 +15,7 @@ Pour mettre en lumière **toutes les facettes du handicap** et célébrer la div
 Pour **rassembler, fédérer, festoyer**, ce festival est une invitation à écouter, à apprendre, à célébrer – ensemble. 
 
 Les inscriptions seront prochainement ouvertes sur HelloAsso :
-<a href="https://www.helloasso.com/associations/dear-valid-people/adhesions/adhesion-annuelle-a-dear-valid-people" class="bouton">S'inscrire au HandiFest</a> 
+<a href="https://www.helloasso.com/associations/dear-valid-people" class="bouton">S'inscrire au HandiFest</a> 
 
 
 ### Pourquoi le nom "HandiFest" ?
