@@ -32,7 +32,7 @@ in_menu: true
 - une **exposition** d’artistes handi·e·s
 - un coin calme de ressources
 
-### les attendus
+### Les attendus
 - Public : 250 personnes minimum
 
 
