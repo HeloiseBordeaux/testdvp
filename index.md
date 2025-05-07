@@ -3,8 +3,7 @@ title: "Bienvenue au HandiFest !"
 order: 0
 in_menu: true
 ---
-![HandiFest, festival inclusif Montpellierain par Dear Valid People le 7 juin 2025 à la Halle Tropisme Montpellier - expo, ateliers, débats, tatoo day, stand-up, concert]({% link images/1000028892.jpg %})
-
+![HandiFest, festival inclusif Montpellierain par Dear Valid People le 7 juin 2025 à la Halle Tropisme Montpellier - expo, ateliers, débats, tatoo day, stand-up, concert]({% link images/1000028886.jpg %})
 
 # Bienvenue au HandiFest !
 
