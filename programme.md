@@ -40,4 +40,4 @@ in_menu: true
 
 Les inscriptions seront prochainement ouvertes sur HelloAsso : 
 
-<a href="https://www.helloasso.com/associations/dear-valid-people/adhesions/adhesion-annuelle-a-dear-valid-people" class="bouton">S'inscrire au HandiFest</a> 
+<a href="https://www.helloasso.com/associations/dear-valid-people" class="bouton">S'inscrire au HandiFest</a> 
