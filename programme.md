@@ -14,7 +14,7 @@ in_menu: true
 
 #### Un temps participatif : 
 ##### 10h-12h :
-- atelier d'initiation à la danse inclusive
+- atelier d'initiation à la **danse inclusive**
 
 ##### 14h-16h30 :
 - ateliers autour du **validisme**
