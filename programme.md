@@ -12,10 +12,13 @@ in_menu: true
 
 ### Le programme
 
-#### Un temps participatif : 14h-17h30
+#### Un temps participatif : 
+##### 10h-12h :
+- atelier d'initiation à la danse inclusive
 
-- 2 à 3 ateliers autour du **validisme**
-- une table-ronde sur les**identités intersectionnelles** 
+##### 14h-16h30 :
+- ateliers autour du **validisme**
+- une table-ronde sur la **convergence des luttes** 
 
 ####  Un temps festif : 19h30-22h
 
@@ -27,11 +30,10 @@ in_menu: true
 ####  Et tout au long de l’évènement...
 - des **tatouages** à prix réduits : <span lang="en">flash day</span>
 - une **exposition** d’artistes handi·e·s
+- un coin calme de ressources
 
 ### les attendus
 - Public : 250 personnes minimum
-- Transversalité entre les sujets
-- Visibilité, reconnaissance, notoriété
 
 
 **Inscrivez-vous vite !**
