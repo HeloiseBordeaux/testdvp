@@ -37,4 +37,9 @@ Le handicap ne doit plus être un sujet tabou réservé à quelques expert·e·s
 Il nous concerne toustes, à un moment ou un autre de nos vies.
 Le choix d’un lieu ouvert, pluriel et inclusif nous semble essentiel. 
 
+<iframe title="compte à rebours"><p>
+<!-- Elfsight Countdown Timer | Untitled Countdown Timer -->
+<script src="https://static.elfsight.com/platform/platform.js" async></script>
+<div class="elfsight-app-acfdb676-b8e1-483a-b973-857269e8aaba" data-elfsight-app-lazy></div></p></iframe>
+
 [Voir le programme du festival](https://handifest-montpellier.fr/programme.html) 
