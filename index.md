@@ -38,7 +38,33 @@ Il nous concerne toustes, à un moment ou un autre de nos vies.
 Le choix d’un lieu ouvert, pluriel et inclusif nous semble essentiel. 
 
 <iframe title="compte à rebours">
-<script src="https://static.elfsight.com/platform/platform.js" async></script>
-<p><div class="elfsight-app-acfdb676-b8e1-483a-b973-857269e8aaba" data-elfsight-app-lazy></div></p></iframe>
+<div id="countdown" class="countdown">
+    <div class="seconds">
+        <div class="seconds-digits">07</div>
+        <div class="label">seconds</div>
+    </div>
+    <div class="minutes">
+        <div class="minutes-digits">03</div>
+        <div class="label">minutes</div>
+    </div>
+    <div class="hours">
+        <div class="hours-digits">118</div>
+        <div class="label">hours</div>
+    </div>
+</div>
+// Correct position of elements
+$('#countdown').append($('.seconds')).append($('.minutes'));
+
+// Make countdown live
+$('.countdown').attr({
+    'aria-live': 'polite',
+    'aria-atomic': 'true'
+});
+// Hide seconds
+$('.seconds').attr({
+    'aria-hidden': 'true'
+});
+
+</iframe>
 
 [Voir le programme du festival](https://handifest-montpellier.fr/programme.html) 
