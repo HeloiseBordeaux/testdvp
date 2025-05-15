@@ -37,7 +37,6 @@ Le handicap ne doit plus être un sujet tabou réservé à quelques expert·e·s
 Il nous concerne toustes, à un moment ou un autre de nos vies.
 Le choix d’un lieu ouvert, pluriel et inclusif nous semble essentiel. 
 
-<iframe title="compte à rebours">
 <div id="countdown" class="countdown">
     <div class="seconds">
         <div class="seconds-digits">07</div>
@@ -64,7 +63,5 @@ $('.countdown').attr({
 $('.seconds').attr({
     'aria-hidden': 'true'
 });
-
-</iframe>
 
 [Voir le programme du festival](https://handifest-montpellier.fr/programme.html) 
