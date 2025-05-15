@@ -37,6 +37,5 @@ Le handicap ne doit plus être un sujet tabou réservé à quelques expert·e·s
 Il nous concerne toustes, à un moment ou un autre de nos vies.
 Le choix d’un lieu ouvert, pluriel et inclusif nous semble essentiel. 
 
-<iframe width="425" height="350" src="https://www.openstreetmap.org/export/embed.html?bbox=-2.042419016361237%2C48.46341216075487%2C-2.04059511423111%2C48.46454509587288&amp;layer=mapnik&amp;marker=48.463977742200946%2C-2.041507065296173" style="border: 1px solid black"></iframe>
 
 [Voir le programme du festival](https://handifest-montpellier.fr/programme.html) 
