@@ -13,7 +13,6 @@ Pour mettre en lumière **toutes les facettes du handicap** et célébrer la div
 
 Pour **rassembler, fédérer, festoyer**, ce festival est une invitation à écouter, à apprendre, à célébrer – ensemble. 
 
-Les inscriptions seront prochainement ouvertes sur HelloAsso :
 <a href="https://www.helloasso.com/associations/dear-valid-people/evenements/handifest" class="bouton">Billeterie du HandiFest (0€ à 15€)</a> 
 
 
