@@ -1,8 +1,10 @@
 ---
-title: "Bienvenue au HandiFest !"
+title: "Accueil"
 order: 0
 in_menu: true
 ---
+<a href="https://www.helloasso.com/associations/dear-valid-people/evenements/handifest" class="bouton">Billeterie du HandiFest (0€ à 15€)</a> 
+
 ![HandiFest, festival inclusif Montpellierain par Dear Valid People le 7 juin 2025 à la Halle Tropisme Montpellier - expo, ateliers, débats, tatoo day, stand-up, concert]({% link images/1000028886.jpg %})
 
 # Bienvenue au HandiFest !
@@ -12,8 +14,6 @@ Pour fêter notre année d'existence, nous organisons un **festival** visant à�
 Pour mettre en lumière **toutes les facettes du handicap** et célébrer la diversité, nous considérons le **handicap comme vaste, pluriel, riche et culturel**.
 
 Pour **rassembler, fédérer, festoyer**, ce festival est une invitation à écouter, à apprendre, à célébrer – ensemble. 
-
-<a href="https://www.helloasso.com/associations/dear-valid-people/evenements/handifest" class="bouton">Billeterie du HandiFest (0€ à 15€)</a> 
 
 
 ### Pourquoi le nom "HandiFest" ?
@@ -38,3 +38,5 @@ Le choix d’un lieu ouvert, pluriel et inclusif nous semble essentiel.
 
 
 [Voir le programme du festival](https://handifest-montpellier.fr/programme.html) 
+
+<a href="https://www.helloasso.com/associations/dear-valid-people/evenements/handifest" class="bouton">Billeterie du HandiFest (0€ à 15€)</a> 
