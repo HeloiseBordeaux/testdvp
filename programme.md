@@ -38,6 +38,5 @@ in_menu: true
 
 **Inscrivez-vous vite !**
 
-Les inscriptions seront prochainement ouvertes sur HelloAsso : 
 
-<a href="https://www.helloasso.com/associations/dear-valid-people" class="bouton">S'inscrire au HandiFest</a> 
+<a href="https://www.helloasso.com/associations/dear-valid-people/evenements/handifest" class="bouton">Billeterie du HandiFest (0€ à 15€)</a> 
