@@ -37,19 +37,6 @@ Le handicap ne doit plus être un sujet tabou réservé à quelques expert·e·s
 Il nous concerne toustes, à un moment ou un autre de nos vies.
 Le choix d’un lieu ouvert, pluriel et inclusif nous semble essentiel. 
 
-<iframe title="compte à rebours" src="https://logwork.com/countdown-timer">
-#document
-<!DOCTYPE html>
-<html>
-<head>
-<meta charset="utf-8">
-<title>Compte à rebours</title>
-<script src="https://cdn.logwork.com/widget/countdown.js"></script>
-</head>
-<body>
-<a href="https://logwork.com/countdown-timer" class="countdown-timer" data-timezone="Europe/Paris" data-language="fr" data-date="2025-05-17 19:52">Countdown Timer</a>
-</body>
-</html>
-</iframe>
+<iframe id="haWidget" allowtransparency="true" src="https://www.helloasso.com/associations/dear-valid-people/evenements/handifest/widget-bouton" style="width: 100%; height: 70px; border: none;" onload="window.addEventListener( 'message', e => { const dataHeight = e.data.height const haWidgetElement = document.getElementById('haWidget') haWidgetElement.height = dataHeight + 'px' } )" ></iframe>
 
 [Voir le programme du festival](https://handifest-montpellier.fr/programme.html) 
