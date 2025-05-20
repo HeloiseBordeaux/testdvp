@@ -31,7 +31,7 @@ Lieu : **Halle Tropisme, Montpellier**
 - Un tiers-lieu culturel et festif
 - Une surface de 10 000 m2
 - Plus de 600 évènements/an 
-- interprètes LSF présents durant l'évènement
+- interprètes LSF (Langue des Signes Française) présents durant l'évènement
 
 ![]({% link images/LSF100px.jpg %})
 
