@@ -12,10 +12,10 @@ in_menu: true
 
 ### Le programme
 
-#### 10h-12h :
+#### 10h-12h
 - Atelier d'initiation à la **danse inclusive**
 
-#### 14h-16h30 :
+#### 14h-16h30
 - Ateliers autour du **validisme** et de la vie intime et affective
 - Une table-ronde sur la **convergence des luttes** 
 
