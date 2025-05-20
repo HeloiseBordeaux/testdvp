@@ -18,6 +18,8 @@ Cheminements extérieurs pour meilleure circulation
 ### Accessibilité LSF (Langue des Signes Française)
 Traductions LSF des spectacles, prises de parole, interventions
 
+![]({% link images/LSF100px.jpg %})
+
 ### Espaces sensoriels
 Une zone définie et apaisante pour s’isoler et se ressourcer
 
