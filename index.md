@@ -1,5 +1,5 @@
 ---
-title: "Accueil"
+title: "Accueil HandiFest"
 order: 0
 in_menu: true
 ---
@@ -33,7 +33,7 @@ Lieu : **Halle Tropisme, Montpellier**
 - Plus de 600 évènements/an 
 - interprètes LSF présents durant l'évènement
 
-![]({% link images/1000029298.jpg %})
+![]({% link images/LSF100px.jpg %})
 
 Le handicap ne doit plus être un sujet tabou réservé à quelques expert·e·s. 
 Il nous concerne toustes, à un moment ou un autre de nos vies.
