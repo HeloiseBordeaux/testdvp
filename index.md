@@ -31,6 +31,9 @@ Lieu : **Halle Tropisme, Montpellier**
 - Un tiers-lieu culturel et festif
 - Une surface de 10 000 m2
 - Plus de 600 évènements/an 
+- interprètes LSF présents durant l'évènement
+
+![]({% link images/1000029298.jpg %})
 
 Le handicap ne doit plus être un sujet tabou réservé à quelques expert·e·s. 
 Il nous concerne toustes, à un moment ou un autre de nos vies.
