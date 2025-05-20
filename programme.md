@@ -19,6 +19,10 @@ in_menu: true
 - Ateliers autour du **validisme** et de la vie intime et affective
 - Une table-ronde sur la **convergence des luttes** 
 
+Interprètes LSF (Langue des Signes Française)
+
+![]({% link images/LSF100px.jpg %})
+
 #### 19h30-20h45
 Des spectacles de **<span lang="en">stand-up</span>** : 
   - **3x8 min d’artistes locaux** : 
@@ -30,6 +34,10 @@ Des spectacles de **<span lang="en">stand-up</span>** :
     - Lou TROTIGNON
     - TAHNEE
 
+Interprètes LSF (Langue des Signes Française)
+
+![]({% link images/LSF100px.jpg %})
+
 #### 21h-22h
 - **Concert chansigné de La Piétà** : 
 un concert bilingue français/LSF (Langue des Signes Française)
@@ -39,9 +47,7 @@ un concert bilingue français/LSF (Langue des Signes Française)
 ####  Et tout au long de l’évènement...
 - Des **tatouages** à prix réduits : <span lang="en">flash day</span>
 - Une **exposition** d’Éléonore DESPAX
-- **Accessibilité** pour toustes : un coin calme de ressources + des interprètes LSF
-
-![]({% link images/LSF100px.jpg %})
+- Un **coin calme** de ressources
 
 
 ### Les attendus
