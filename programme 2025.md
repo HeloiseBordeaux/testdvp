@@ -1,5 +1,5 @@
 ---
-title: "Programme"
+title: "Programme 2025"
 order: 1
 in_menu: true
 ---
