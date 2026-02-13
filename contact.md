@@ -3,7 +3,7 @@ title: "Contact"
 order: 4
 in_menu: true
 ---
-L'association **Dear Valid People** est actuellement composée de 5 membres.
+L'association **Dear Valid People** est actuellement composée de 5 membres du bureau et de multiples bénévoles.
 
 N'hésitez pas à nous contacter pour échanger plus concrètement des modalités et des détails du festival.
 
