@@ -41,5 +41,3 @@ Le choix d’un lieu ouvert, pluriel et inclusif nous semble essentiel.
 
 
 [Voir le programme du festival](https://handifest-montpellier.fr/programme.html) 
-
-<a href="https://www.helloasso.com/associations/dear-valid-people/evenements/handifest" class="bouton">Billeterie du HandiFest (0€ à 15€)</a> 
